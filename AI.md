@@ -211,6 +211,7 @@
 * [InstantArt](https://instantart.io/) - AI Image Generator
 * [Artificy](https://artificy.com/) - AI Image Generator
 * [AIImageGenerator](https://www.aiimagegenerator.org/) - AI Image Generator
+* [Leonardo.ai](https://leonardo.ai/) - AI Image Generator
 * [Dream Studio](https://beta.dreamstudio.ai/dream) - AI Image Generator
 * [Dream.a](https://dream.ai/) - AI Image Generator
 * [DreamLike](https://dreamlike.art) - AI Image Generator
